@@ -3,6 +3,12 @@ class Solution
 public:
     bool isPowerOfFour(int n)
     {
+         //  if(n<=0) return false;
+        
+//             double check = log2(n)/2;
+//             cout<<check;
+
+//         return check==(int)check;
       if(n==0) return false;
         else{
               int rightmost_bit = 32 - __builtin_clz(n);
