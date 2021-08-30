@@ -3,8 +3,7 @@ public:
     /** Initialize your data structure here. */
     set<int>s;
     RandomizedSet() {
-        set<int>v;
-        s=v;
+        ios_base::sync_with_stdio(0); cin.tie(NULL);
     }
     
     /** Inserts a value to the set. Returns true if the set did not already contain the specified element. */
