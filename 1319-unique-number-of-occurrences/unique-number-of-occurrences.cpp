@@ -4,7 +4,7 @@ public:
         bool ans=true;
         set<int>s;
         unordered_set<int>ss;
-        map<int,int>m;
+        unordered_map<int,int>m;
         for(auto e: arr){
             m[e]++;
             s.insert(e);
