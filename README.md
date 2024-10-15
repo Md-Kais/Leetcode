@@ -43,4 +43,12 @@ http://mdkais.netlify.app/
 |  |
 | ------- |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Md-Kais/Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+## Array
+|  |
+| ------- |
+| [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Md-Kais/Leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Md-Kais/Leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 <!---LeetCode Topics End-->
