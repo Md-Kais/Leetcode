@@ -48,6 +48,7 @@ http://mdkais.netlify.app/
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Md-Kais/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0073-set-matrix-zeroes](https://github.com/Md-Kais/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Md-Kais/Leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 ## Sliding Window
 |  |
@@ -69,6 +70,7 @@ http://mdkais.netlify.app/
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Md-Kais/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [1502-construct-k-palindrome-strings](https://github.com/Md-Kais/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 ## Greedy
 |  |
@@ -78,4 +80,8 @@ http://mdkais.netlify.app/
 |  |
 | ------- |
 | [1502-construct-k-palindrome-strings](https://github.com/Md-Kais/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/Md-Kais/Leetcode/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
