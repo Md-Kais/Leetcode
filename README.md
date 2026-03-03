@@ -14,6 +14,7 @@ http://mdkais.netlify.app/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Md-Kais/Leetcode/tree/master/0096-unique-binary-search-trees) |
+| [0319-bulb-switcher](https://github.com/Md-Kais/Leetcode/tree/main/LeetCode/Medium/0319-bulb-switcher/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -95,4 +96,8 @@ http://mdkais.netlify.app/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3647-zero-array-transformation-iii](https://github.com/Md-Kais/Leetcode/tree/master/3647-zero-array-transformation-iii) |
+## Brainteaser
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0319-bulb-switcher](https://github.com/Md-Kais/Leetcode/tree/main/LeetCode/Medium/0319-bulb-switcher/) | Medium |
 <!---LeetCode Topics End-->
