@@ -52,6 +52,7 @@ http://mdkais.netlify.app/
 | [0004-median-of-two-sorted-arrays](https://github.com/Md-Kais/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0073-set-matrix-zeroes](https://github.com/Md-Kais/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Md-Kais/Leetcode/tree/main/LeetCode/Medium/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/Md-Kais/Leetcode/tree/main/LeetCode/Easy/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Md-Kais/Leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/Md-Kais/Leetcode/tree/master/3647-zero-array-transformation-iii) |
 ## Sliding Window
@@ -93,6 +94,7 @@ http://mdkais.netlify.app/
 | ------- | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Md-Kais/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Md-Kais/Leetcode/tree/main/LeetCode/Medium/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/Md-Kais/Leetcode/tree/main/LeetCode/Easy/1582-special-positions-in-a-binary-matrix/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
