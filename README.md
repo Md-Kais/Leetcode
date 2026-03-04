@@ -51,6 +51,7 @@ http://mdkais.netlify.app/
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Md-Kais/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0073-set-matrix-zeroes](https://github.com/Md-Kais/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Md-Kais/Leetcode/tree/main/LeetCode/Easy/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Md-Kais/Leetcode/tree/main/LeetCode/Medium/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Md-Kais/Leetcode/tree/main/LeetCode/Easy/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Md-Kais/Leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
@@ -111,4 +112,12 @@ http://mdkais.netlify.app/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Md-Kais/Leetcode/tree/main/LeetCode/Medium/1545-find-kth-bit-in-nth-binary-string/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Md-Kais/Leetcode/tree/main/LeetCode/Easy/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Md-Kais/Leetcode/tree/main/LeetCode/Easy/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 <!---LeetCode Topics End-->
