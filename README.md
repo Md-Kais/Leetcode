@@ -70,6 +70,7 @@ http://mdkais.netlify.app/
 | [1502-construct-k-palindrome-strings](https://github.com/Md-Kais/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Md-Kais/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Md-Kais/Leetcode/tree/main/LeetCode/Medium/1545-find-kth-bit-in-nth-binary-string/) | Medium |
+| [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Md-Kais/Leetcode/tree/main/LeetCode/Easy/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
