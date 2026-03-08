@@ -55,6 +55,7 @@ http://mdkais.netlify.app/
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Md-Kais/Leetcode/tree/main/LeetCode/Easy/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Md-Kais/Leetcode/tree/main/LeetCode/Medium/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Md-Kais/Leetcode/tree/main/LeetCode/Easy/1582-special-positions-in-a-binary-matrix/) | Easy |
+| [1980-find-unique-binary-string](https://github.com/Md-Kais/Leetcode/tree/main/LeetCode/Medium/1980-find-unique-binary-string/) | Medium |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Md-Kais/Leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/Md-Kais/Leetcode/tree/master/3647-zero-array-transformation-iii) |
 ## Sliding Window
@@ -74,6 +75,7 @@ http://mdkais.netlify.app/
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Md-Kais/Leetcode/tree/main/LeetCode/Medium/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Md-Kais/Leetcode/tree/main/LeetCode/Easy/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Md-Kais/Leetcode/tree/main/LeetCode/Medium/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
+| [1980-find-unique-binary-string](https://github.com/Md-Kais/Leetcode/tree/main/LeetCode/Medium/1980-find-unique-binary-string/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -84,6 +86,7 @@ http://mdkais.netlify.app/
 | ------- | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Md-Kais/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [1502-construct-k-palindrome-strings](https://github.com/Md-Kais/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
+| [1980-find-unique-binary-string](https://github.com/Md-Kais/Leetcode/tree/main/LeetCode/Medium/1980-find-unique-binary-string/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -124,4 +127,8 @@ http://mdkais.netlify.app/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Md-Kais/Leetcode/tree/main/LeetCode/Easy/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1980-find-unique-binary-string](https://github.com/Md-Kais/Leetcode/tree/main/LeetCode/Medium/1980-find-unique-binary-string/) | Medium |
 <!---LeetCode Topics End-->
