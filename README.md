@@ -21,6 +21,7 @@ http://mdkais.netlify.app/
 | [0096-unique-binary-search-trees](https://github.com/Md-Kais/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Md-Kais/Leetcode/tree/main/LeetCode/Medium/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Md-Kais/Leetcode/tree/main/LeetCode/Medium/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
+| [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Md-Kais/Leetcode/tree/main/LeetCode/Hard/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -82,6 +83,7 @@ http://mdkais.netlify.app/
 | ------- | ------- |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Md-Kais/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Md-Kais/Leetcode/tree/main/LeetCode/Medium/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
+| [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Md-Kais/Leetcode/tree/main/LeetCode/Hard/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
 | [3647-zero-array-transformation-iii](https://github.com/Md-Kais/Leetcode/tree/master/3647-zero-array-transformation-iii) |
 ## Hash Table
 | Problem Name | Difficulty |
