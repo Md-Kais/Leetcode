@@ -35,6 +35,7 @@ http://mdkais.netlify.app/
 | [0004-median-of-two-sorted-arrays](https://github.com/Md-Kais/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0096-unique-binary-search-trees](https://github.com/Md-Kais/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Md-Kais/Leetcode/tree/main/LeetCode/Medium/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Md-Kais/Leetcode/tree/main/LeetCode/Hard/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -100,6 +101,7 @@ http://mdkais.netlify.app/
 | [1502-construct-k-palindrome-strings](https://github.com/Md-Kais/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Md-Kais/Leetcode/tree/main/LeetCode/Medium/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Md-Kais/Leetcode/tree/main/LeetCode/Medium/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Md-Kais/Leetcode/tree/main/LeetCode/Hard/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 | [3647-zero-array-transformation-iii](https://github.com/Md-Kais/Leetcode/tree/master/3647-zero-array-transformation-iii) |
 ## Counting
 | Problem Name | Difficulty |
@@ -144,4 +146,16 @@ http://mdkais.netlify.app/
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1009-complement-of-base-10-integer](https://github.com/Md-Kais/Leetcode/tree/main/LeetCode/Easy/1009-complement-of-base-10-integer/) | Easy |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Md-Kais/Leetcode/tree/main/LeetCode/Hard/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Md-Kais/Leetcode/tree/main/LeetCode/Hard/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
+## Minimum Spanning Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Md-Kais/Leetcode/tree/main/LeetCode/Hard/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 <!---LeetCode Topics End-->
