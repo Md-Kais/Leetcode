@@ -15,6 +15,7 @@ http://mdkais.netlify.app/
 | ------- | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Md-Kais/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0319-bulb-switcher](https://github.com/Md-Kais/Leetcode/tree/main/LeetCode/Medium/0319-bulb-switcher/) | Medium |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Md-Kais/Leetcode/tree/main/LeetCode/Medium/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -33,6 +34,7 @@ http://mdkais.netlify.app/
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Md-Kais/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0096-unique-binary-search-trees](https://github.com/Md-Kais/Leetcode/tree/master/0096-unique-binary-search-trees) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Md-Kais/Leetcode/tree/main/LeetCode/Medium/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -59,6 +61,7 @@ http://mdkais.netlify.app/
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Md-Kais/Leetcode/tree/main/LeetCode/Easy/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/Md-Kais/Leetcode/tree/main/LeetCode/Medium/1980-find-unique-binary-string/) | Medium |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/Md-Kais/Leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Md-Kais/Leetcode/tree/main/LeetCode/Medium/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3647-zero-array-transformation-iii](https://github.com/Md-Kais/Leetcode/tree/master/3647-zero-array-transformation-iii) |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -96,6 +99,7 @@ http://mdkais.netlify.app/
 | ------- | ------- |
 | [1502-construct-k-palindrome-strings](https://github.com/Md-Kais/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Md-Kais/Leetcode/tree/main/LeetCode/Medium/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Md-Kais/Leetcode/tree/main/LeetCode/Medium/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3647-zero-array-transformation-iii](https://github.com/Md-Kais/Leetcode/tree/master/3647-zero-array-transformation-iii) |
 ## Counting
 | Problem Name | Difficulty |
@@ -110,6 +114,7 @@ http://mdkais.netlify.app/
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Md-Kais/Leetcode/tree/main/LeetCode/Medium/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3647-zero-array-transformation-iii](https://github.com/Md-Kais/Leetcode/tree/master/3647-zero-array-transformation-iii) |
 ## Brainteaser
 | Problem Name | Difficulty |
